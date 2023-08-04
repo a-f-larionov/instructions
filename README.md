@@ -54,7 +54,7 @@ https://about.gitlab.com/install/#ubuntu
 
 
 
-#### Create SSL keys (self signed certificate)
+#### Create SSL keys (self signed certificate) (for M3 Project\nginx)
 
 Move private and public key to /var/m3-test/m3-compose/keys/self-signed/
 For windows use PuTTY Key Generator
